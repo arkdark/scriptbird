@@ -34,7 +34,7 @@ CAMPO1 = VALOR1
 [ACAO]
 EXECUTAR = FUNCAO_PROGRAMADA_NO_CODIGO
 ```
-
+> Há um arquivo na pasta Scripts como exemplo do `.ini`
 
 ## 🔧 Requisitos
 
