@@ -1,0 +1,1 @@
+# Config - Gerenciamento de configurações

@@ -1,0 +1,1 @@
+# Infrastructure - Detalhes de implementação

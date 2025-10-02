@@ -1,0 +1,1 @@
+# Generated - Arquivos gerados pelo Qt Designer
