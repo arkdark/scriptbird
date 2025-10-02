@@ -1,0 +1,1 @@
+# Exceptions - Exceções customizadas do ScriptBird

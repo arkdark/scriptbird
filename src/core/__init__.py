@@ -1,0 +1,1 @@
+# Core - Lógica de negócio central do ScriptBird

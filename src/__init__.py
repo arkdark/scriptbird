@@ -1,0 +1,1 @@
+# ScriptBird - Aplicação para execução automatizada de scripts Firebird
